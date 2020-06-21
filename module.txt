@@ -1,6 +1,6 @@
 {
     "id": "Hunger",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "author": "UltimateBudgie, Marcin Sciesinski <marcins78@gmail.com>",
     "displayName": "Hunger and Food",
     "description": "This module introduces Hunger and various related effects.",
